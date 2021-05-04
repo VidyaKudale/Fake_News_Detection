@@ -23,4 +23,4 @@ There are two files, one for real news and one for fake news with a total of 234
 The analysis
 All of the analysis can be found in the below link:
 
-
+https://github.com/VidyaKudale/Fake_News_Detection/blob/19788473cf9eba0e437c64904a631cae30d43f0a/fake_news_detection_main.pdf
